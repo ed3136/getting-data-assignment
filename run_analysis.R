@@ -1,9 +1,8 @@
-#setwd("E:/_Dropbox(ed3136)/Dropbox/Coursera/getting data")
+# Directory /UCI HAR Dataset/ incluing subdirectory should be in the working directory
 
 #####Step 1 : read data and merge 
 #read measurement column name
 cname <- read.table ("./UCI HAR Dataset/features.txt")
-
 
 #read test data +Cbind together
 test_data<- read.table("./UCI HAR Dataset/test/X_test.txt",
