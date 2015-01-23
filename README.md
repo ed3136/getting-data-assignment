@@ -1,7 +1,7 @@
 # Coursera Getting Data Assignment
 ## run_analysis.R 
 The directory " /UCI HAR Dataset " should be in the working directory 
-including subdirctory "test" and "train" and some files.
+including subdirctory "test" , "train" and some files.
 frequency.txt indicate the measured variable(column names);
 activity_label:  1~6 activity name ;
 
